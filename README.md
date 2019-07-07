@@ -133,8 +133,3 @@ https://www.digitalocean.com/products/kubernetes/
 https://www.digitalocean.com/community/tutorials/how-to-migrate-a-docker-compose-workflow-to-kubernetes?fbclid=IwAR24gLGWRCicaItgZAA7sh5AcWI3RpBk8OOLYtLG7SJcW2ejEq2yRfkCaVM
 
 
-
-
-
-
-
