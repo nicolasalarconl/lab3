@@ -120,7 +120,7 @@ docker-compose up
 ```
 
 
-2- Una vez levantada la aplicacion  es necesario configurar e instalar las imagenes de docker a kubernetesal para eso se debe contar con una cuenta en digital ocean y crear una configuracion para que esta comienzas a ser monitoreadas 
+2- Una vez levantada la aplicacion  es necesario configurar e instalar las imagenes de docker a kubernetes. Para eso se debe contar con una cuenta en digital ocean y crear una configuracion de kubernetes para que esta comienzas a ser monitoreadas 
 
 
 
